@@ -1,4 +1,4 @@
-Bank Account Manager
+MonProjet
 =====================
 
 #### Install
